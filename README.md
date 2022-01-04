@@ -113,9 +113,9 @@ http://dborucika.test
 
 jika berjalan lancar buka postman untuk menguji API.
 
-Berikut link dokumentasi API nya
+Berikut link API nya
 
-https://documenter.getpostman.com/view/7342285/UVCCdiWo
+http://testdbo.test/api/import/mentor-msib
 
 
 Terimakasih 
