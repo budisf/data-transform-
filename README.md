@@ -58,7 +58,7 @@ sudo docker-compose exec --user=laradock workspace bash
 
 kemudian clone repository dengan perintah
 
-git clone https://github.com/budisf/dborucika.git
+git clone https://github.com/budisf/data-transform-.git
 
 Setelah selesai masuk ke folder dborucika dengan perintah cd dborucika untuk menatur environtment laravel
 
